@@ -59,7 +59,7 @@ This ensures the script has read access to the file.
 ## Example Output
 
 ```
-Dev    :- sumit Kalekar
+Dev    :- sumit shah
 Version :- 0.0.1
 
 [1] Encode a message
